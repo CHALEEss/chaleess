@@ -1,8 +1,6 @@
 <h1 align="center">Hi,I'm Kittituch Chaleesan</h1>
 <h3 align="center">I'm a beginner Front-end Dev :)</h3>
 
-- 🔭 I’m currently working on [Passion Community](https://discord.gg/passioncommunity) FiveM Server
-
 - 🌱 I’m currently learning **React Svelte**
 
 - 📫 How to reach me **kittituch.chalee@gmail.com**
