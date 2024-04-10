@@ -31,9 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/CHALEEss/CHALEEss/output/snake.svg" alt="Snake animation" />
-
-###
