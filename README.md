@@ -1,5 +1,5 @@
-<h1 align="center">Hi,I'm Kittituch Chaleesan</h1>
-<h3 align="center">I'm a beginner Front-end Dev :)</h3>
+<h1 align="leftr">Hi,I'm Kittituch Chaleesan</h1>
+<h3 align="left">I'm a beginner Front-end Dev :)</h3>
 
 - 🌱 I’m currently learning **React Svelte**
 
