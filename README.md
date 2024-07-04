@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Kittituch Chaleesan
-⚒️ I'm currently working at Passion Community Fivem server<br>
+⚒️ I'm working at Passion Community Fivem server<br>
 🌴 I'm currently studying at King Mongkut’s University<br>
 
 
