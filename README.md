@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Kittituch Chaleesan
+# 👋 Hello there! I'm Chalee
 ⚒️ I'm working at Passion Community Fivem server<br>
 🌴 I'm currently studying at King Mongkut’s University<br>
 
